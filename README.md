@@ -1,4 +1,4 @@
-# Chat con Angular
+# Chat con Spring Boot
 
 *Pequeño chat implementado con spring boot*
 
